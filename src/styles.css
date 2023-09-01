@@ -1,0 +1,5 @@
+body{background-color:rgb(245, 174, 186);}
+h1{font-size: 50px; color:rgb(92, 13, 13)}
+p{font-size:20px; margin-bottom:40px;}
+h1,p{text-align: center;}
+.info{display:flex;justify-content: space-evenly;}
